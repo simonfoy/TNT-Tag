@@ -1,0 +1,4 @@
+name: TNT-Tag
+version: '${project.version}'
+main: me.simonfoy.tnttag.TNT_Tag
+api-version: '1.20'
