@@ -1,5 +1,7 @@
 package me.simonfoy.tnttag.instance;
 
+import me.simonfoy.tnttag.GameState;
+import me.simonfoy.tnttag.TNT_Tag;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
